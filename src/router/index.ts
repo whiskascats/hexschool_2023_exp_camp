@@ -6,7 +6,7 @@ const routes: RouteRecordRaw[] = [
 ]
 
 const options: RouterOptions = {
-  history: createWebHistory(import.meta.env.VITE_BASE_URL),
+  history: createWebHistory(import.meta.env.VITE_GITHUB_URL),
   routes,
  }
 

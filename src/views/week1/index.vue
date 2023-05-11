@@ -99,42 +99,42 @@ const data = reactive<Data[]>([
     description: '建立智能化的聊天機器人，解答常見問題、提供客戶支援、收集反饋等。',
     author: '卡卡',
     tag: '聊天',
-    img: '/src/assets/images/tool1.png'
+    img: 'https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2023web-camp/tool1.png'
   },
   {
     title: 'Image Recognition Platform',
     description: '專業的圖像識別平台，識別圖像、分類、標記等。',
     author: '杰杰',
     tag: '影像辨識',
-    img: '/src/assets/images/tool2.png'
+    img: 'https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2023web-camp/tool2.png'
   },
   {
     title: 'Language Translation API',
     description: '專業的語言翻譯 API，實現文本翻譯功能，支援多種格式的文本。',
     author: '琪琪',
     tag: '翻譯',
-    img: '/src/assets/images/tool3.png'
+    img: 'https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2023web-camp/tool3.png'
   },
   {
     title: 'Sentiment Analysis API',
     description: '自動識別文本中的情感傾向，包括正向、負向和中性等。適用於情感分析、社交媒體監控、市場調查等。',
     author: '昊昊',
     tag: '行銷',
-    img: '/src/assets/images/tool4.png'
+    img: 'https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2023web-camp/tool4.png'
   },
   {
     title: 'Fraud Detection Platform',
     description: '預防詐騙活動，適用於銀行、金融、電商等。',
     author: '卡卡',
     tag: '客服',
-    img: '/src/assets/images/tool5.png'
+    img: 'https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2023web-camp/tool5.png'
   },
   {
     title: 'Voice Assistant SDK',
     description: '通過語音控制應用程式、設備，實現多種功能，例如播放音樂、查詢天氣、發送信息等。',
     author: '杰杰',
     tag: '生產力',
-    img: '/src/assets/images/tool6.png'
+    img: 'https://raw.githubusercontent.com/hexschool/2022-web-layout-training/main/2023web-camp/tool6.png'
   }
 ])
 </script>
